@@ -4,10 +4,9 @@ html {
 
 body {
     background-color: rgb(35, 227, 160);
-    background-image: url(img/background-adare-restaurant.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    background-image: url(img/5qsmrd7hwvs61.jpg);
+    background-size: small;
+    background-repeat: repeat;
 }
 
 .container {
