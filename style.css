@@ -35,6 +35,10 @@ main {
     padding-right: 240px;
 }
 
+video {
+    width: 100%;
+}
+
 footer {
     background-color: rgba(0, 0, 0, 0.304);
     padding-top: 50px;
